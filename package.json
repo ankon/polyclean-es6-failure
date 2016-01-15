@@ -1,0 +1,12 @@
+{
+  "name": "polyclean-es6-failure",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "polybuild": "^1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ankon/polyclean-es6-failure"
+  }
+}
